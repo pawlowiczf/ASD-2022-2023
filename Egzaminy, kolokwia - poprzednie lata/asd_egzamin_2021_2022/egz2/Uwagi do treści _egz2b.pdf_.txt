@@ -1,0 +1,6 @@
+Uwagi do treści zadania egz2b.py
+
+"Wstępnie wszystkie drzwi są zamknięte, ale jeśli w skrzyni zostanie umieszczona odpowiednia liczba sztabek złota, to drzwi się otwierają i można nimi przejść.
+
+comment:
+odpowiednia liczba oznacza dokładnie tyle, nie więcej

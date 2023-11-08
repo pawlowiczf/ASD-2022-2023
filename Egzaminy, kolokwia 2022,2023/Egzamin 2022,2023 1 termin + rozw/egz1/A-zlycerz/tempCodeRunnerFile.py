@@ -1,0 +1,1 @@
+  # minValue = min( minValue, Dijkstra(G, V, s, vertex, r, -1, -1))

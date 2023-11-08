@@ -1,0 +1,1 @@
+# Podobnie jak dla jednowymiarowego problemu plecakowego 
